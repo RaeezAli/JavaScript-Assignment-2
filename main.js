@@ -12,25 +12,25 @@
 
 // var sub;
 // sub = 5-3 ;
-// document.write("The Sum of 5 - 3 = "+sub)
+// document.write("The Subtraction of 5 - 3 = "+sub)
 
 //! Multiplication
 
 // var multi;
 // multi = 5*3 ;
-// document.write("The Sum of 5 * 3 = "+multi)
+// document.write("The Multiplication of 5 * 3 = "+multi)
 
 //! Division 
 
 // var divide;
 // divide = 5/3 ;
-// document.write("The Sum of 5 / 3 = "+divide)
+// document.write("The Division of 5 / 3 = "+divide)
 
 //! Modulus
 
 // var mod;
 // mod = 5%3 ;
-// document.write("The Sum of 5 % 3 = "+mod)
+// document.write("The Mod of 5 % 3 = "+mod)
 
 // TODO Question Node.03
 
